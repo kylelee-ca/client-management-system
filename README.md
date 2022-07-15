@@ -1,8 +1,6 @@
 ## Management System
 This project builds a client managent system for tutorial purpose.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
